@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi there! 👋 I'm Ovidiu-Andrei Toma
+I'm a software developer passionate about building web and mobile applications. With a Bachelor’s Degree in Informatics, I focus on creating efficient, user-friendly, and scalable applications.
 
-<!--
-**OvidiuTo/OvidiuTo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 Tech Stack: Flutter, Dart, Firebase, TypeScript, Next.js, Python, Docker
+🚀 What I Do:
 
-Here are some ideas to get you started:
+Develop mobile apps using Flutter and BLoC architecture
+Build and maintain web applications with a focus on usability and performance
+Implement Firebase for real-time features and authentication
+Optimize applications for speed and reliability
+I enjoy tackling complex challenges, refining user experiences, and continuously improving my skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔗 Let's Connect:
+LinkedIn
